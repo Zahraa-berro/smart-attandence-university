@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275183558222",
+    "project_id": "smart-classroom-e0584",
+    "storage_bucket": "smart-classroom-e0584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275183558222:android:eafcbcaf7555018b94ad1f",
+        "android_client_info": {
+          "package_name": "com.example.smart_classroom_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyEw22_lXhJ4pyiR3vYufifOaIUT-8isc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
